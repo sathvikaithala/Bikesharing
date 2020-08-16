@@ -12,4 +12,4 @@ UC Berkeley Extension Data Analytics Boot Camp Module 14
 
 
 
-Click here to see the [dashboard!](LINK GOES HERE)
+Click here to see the ![dashboard!](LINK GOES HERE)
